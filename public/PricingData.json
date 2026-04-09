@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 999,
+    "duration": "month",
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 fitness assessment",
+      "Open gym hours (6am-10pm)",
+      "Free Wi-Fi",
+      "Water station access",
+      "Mobile app access (basic tracking)",
+      "Beginner workout guide PDF"
+    ],
+    "popular": false
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 1999,
+    "duration": "month",
+    "description": "Best for regular gym users who want guided workouts.",
+    "features": [
+      "All Basic features",
+      "Personal trainer (2 sessions/week)",
+      "Group classes (Yoga, Cardio, Zumba)",
+      "Diet plan guidance",
+      "Progress tracking",
+      "Body composition analysis",
+      "Access to fitness workshops",
+      "1 guest pass per month",
+      "Priority locker access"
+    ],
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 3499,
+    "duration": "month",
+    "description": "For serious fitness enthusiasts and transformations.",
+    "features": [
+      "All Standard features",
+      "Unlimited personal training",
+      "Custom diet & workout plan",
+      "24/7 gym access",
+      "Steam & sauna access",
+      "Shower & towel service",
+      "Supplement consultation",
+      "Weekly progress reports",
+      "Injury prevention guidance",
+      "VIP support"
+    ],
+    "popular": false
+  },
+  {
+    "id": 4,
+    "name": "Couple Plan",
+    "price": 5999,
+    "duration": "month",
+    "description": "Train together and stay motivated as a pair.",
+    "features": [
+      "Access for 2 persons",
+      "All Premium features",
+      "Couple workout sessions",
+      "Personal trainer (shared)",
+      "Special discounts on supplements",
+      "2 guest passes per month",
+      "Priority booking for classes"
+    ],
+    "popular": false
+  },
+  {
+    "id": 5,
+    "name": "Student Plan",
+    "price": 799,
+    "duration": "month",
+    "description": "Affordable plan for students.",
+    "features": [
+      "Access to gym equipment",
+      "Valid student ID required",
+      "Limited hours access (8am-6pm)",
+      "Group classes (selected)",
+      "Basic diet tips",
+      "Fitness orientation session",
+      "Discount on renewal"
+    ],
+    "popular": false
+  }
+]

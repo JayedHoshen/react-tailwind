@@ -38,13 +38,18 @@ const NavBar = () => {
   ));
 
   return (
-    <nav className="flex justify-between mx-10">
+    <nav className="flex justify-between items-center mx-10 mt-4">
       <span className="flex" onClick={() => setOpen(!open)}>
         <span className="md:hidden">{open ? <X></X> : <Menu></Menu>}</span>
+        <ul
+          className={`mt-8 text-black md:hidden absolute duration-500 ${open ? "left-11 " : "-left-25"} bg-gray-200`}
+        >
+          {links}
+        </ul>
         <h3 className="ml-4">My Navbar</h3>
       </span>
       {/* 3. component navbar */}
-      <ul className="flex">{links}</ul>
+      <ul className="hidden md:flex">{links}</ul>
 
       {/* 2. dynamic navbar */}
       {/* <ul className="flex">
@@ -68,7 +73,7 @@ const NavBar = () => {
         </li>
       </ul> */}
 
-      <button>Sign In</button>
+      <button className="btn btn-outline rounded-md">Sign In</button>
     </nav>
   );
 };
