@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Rahim Ahmed",
+    "marks": {
+      "math": 85,
+      "chemistry": 78,
+      "physics": 82
+    }
+  },
+  {
+    "id": 2,
+    "name": "Karim Hasan",
+    "marks": {
+      "math": 92,
+      "chemistry": 88,
+      "physics": 90
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nusrat Jahan",
+    "marks": {
+      "math": 76,
+      "chemistry": 81,
+      "physics": 79
+    }
+  },
+  {
+    "id": 4,
+    "name": "Tania Akter",
+    "marks": {
+      "math": 89,
+      "chemistry": 91,
+      "physics": 87
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sabbir Hossain",
+    "marks": {
+      "math": 68,
+      "chemistry": 74,
+      "physics": 70
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mim Islam",
+    "marks": {
+      "math": 95,
+      "chemistry": 93,
+      "physics": 96
+    }
+  },
+  {
+    "id": 7,
+    "name": "Arif Chowdhury",
+    "marks": {
+      "math": 80,
+      "chemistry": 77,
+      "physics": 84
+    }
+  },
+  {
+    "id": 8,
+    "name": "Jannat Sultana",
+    "marks": {
+      "math": 88,
+      "chemistry": 85,
+      "physics": 89
+    }
+  },
+  {
+    "id": 9,
+    "name": "Fahim Rahman",
+    "marks": {
+      "math": 72,
+      "chemistry": 69,
+      "physics": 75
+    }
+  },
+  {
+    "id": 10,
+    "name": "Sumaiya Khan",
+    "marks": {
+      "math": 90,
+      "chemistry": 86,
+      "physics": 91
+    }
+  }
+]
